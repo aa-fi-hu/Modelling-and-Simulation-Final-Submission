@@ -6,4 +6,4 @@ First Part (SZR) - Susceptible Humans, Zombies, Removed  [ Initial ]
 
 Second Part (SZMR) - Susceptible Humans, Zombies, Mutated Zombies, Removed   [ Mutation ]
 
-Third Part - Advanced Humans, Zombies, Mutated Zombies, Removed [ Adaptation ]
+Third Part (SZMR - S fighting back)) - Susceptible Humans Fighting Back, Zombies, Mutated Zombies, Removed [ Fighting Back ]
